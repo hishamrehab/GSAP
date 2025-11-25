@@ -19,7 +19,7 @@
     @apply text-blue-400 hover:text-blue-500
   }
 
-  button {sdaadssssss
+  button {
     @apply bg-slate-500 hover:bg-slate-600 text-zinc-50 px-4 py-2 rounded-md
   }
 }
